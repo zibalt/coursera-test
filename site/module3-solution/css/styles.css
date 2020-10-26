@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+#header-nav {
+	background-color: #ABB2B9;
+}
+
+#header-nav h1 {
+	color: black;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#nav-list {
+	background-color: #c2c2c2;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#collapsable-nav li a {
+	color: black;
+	text-align: center;
+}
+
+hr {
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	text-align: center;
+}
+
+.menu-section {
+	border: 5px solid white;
+	background-color: #ABB2B9;
+}
